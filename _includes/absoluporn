@@ -1,0 +1,8 @@
+<script src="//content.jwplatform.com/libraries/V6NfEzT7.js"></script>
+<div id="myPlayer">&nbsp;</div>
+<script>
+jwplayer('myPlayer').setup({aspectratio:"16:9",width:"100%",
+image:"{{page.thumb}}",
+file:"http://91.121.63.131/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/{{include.key}}.mp4"
+});
+</script>
